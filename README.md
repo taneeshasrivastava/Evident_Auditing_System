@@ -4,22 +4,6 @@ We will use computer vision library and AI to detect a person in a video footage
 This system will help to cut down the efforts done by police authorities during analysing the huge video footages. 
 ![wwww](https://user-images.githubusercontent.com/73888467/191596541-8960927d-7cf0-43e4-818d-53853fee399b.png)
 
-
-Hardware:
- 
-Minimum RAM:-8GB
- 
-Hard Disk:-500 GB
- 
-Processor:-Intel core i5
- 
-Software:
- 
-Language: - Python 3
- 
-Libraries: - OpenCV, pyQT
- 
-Operating System: - Windows 10
 We will take CCTV footage and a sketch as an input from the user. The sketch will show the person whom we have to find out in the Video footage. This sketch will also show the colours of the cloths that the person is wearing.
 We will use Pattern Matching for searching and finding the location of the input sketch in each frame of the video footage. Then After that we will try to find the best possible frame which matches with our input image.
 Using pattern matching, we can find out how much the neighbourhood of each pixel of a particular frame matches with the Input image.
