@@ -46,7 +46,7 @@ We had developed a system that can successfully detect the person with 60% - 65%
 We are hoping to make the system more faster by using parallel processing.
 
 Limitation:
-     	The system can’t have a very high accuracy as the CCTV footage is not very         	clear and we will have to just depend on the colours of the cloths and 	contour of the body of the person.
+     	The system can’t have a very high accuracy as the CCTV footage is not very clear and we will have to just depend on the colours of the cloths and 	contour of the body of the person.
  
 Major Difficulties encountered:
 The outcome depends of the quality of the CCTV footage and input drawing provided. 
